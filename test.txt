@@ -1,3 +1,4 @@
 testing git push
 re-test another push update to git
 git push test from different dir location
+git push sync test after SSH key setup
